@@ -79,7 +79,7 @@ void bubble_sort(int array[],int size){
     array[1] > array[2]
     12 > 45 haaai ya nahi , Nahi hai toh if statement false hogi aur nahi chalegi...
 
-    but i ki value value badhegi bhaishaaab, haaaaaan{i++}
+    but i ki value badhegi bhaishaaab, haaaaaan{i++}
 
     ab i = 2
 
